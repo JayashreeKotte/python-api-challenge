@@ -77,8 +77,8 @@ City Latitude vs Cloudiness
 City Latitude vs Wind Speed
 ![City Latitude vs Wind Speed](output_data/Fig4.png)
 
-### Note: 
-    The data from openweathermap.org and geoapify.com are realtime and the results when run would pertain to the realtime data fetched from the sources. Hence the results could look different. 
+### Note 
+The data from openweathermap.org and geoapify.com are realtime and the results when run would pertain to the realtime data fetched from the sources. Hence the results could look different. 
 
 ---
 ## Credits
